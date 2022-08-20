@@ -15,6 +15,8 @@ flask run
 ```
 
 ### Setting up the front-end
+* Change your API url in /front-end/src/api/task-api.js.txt
+* Rename the file to task-api.js 
 * From inside the front-end directory, use NPM to install dependencies:
 ```
 npm install dependencies
@@ -23,6 +25,7 @@ npm install dependencies
 ```
 npm start
 ```
+
 
 ## Demo
 I have a working demo on my website, https://demotaskmanager.jtsimon.dev/ 
