@@ -1,0 +1,6 @@
+// Rename this file to task-api.js and enter your base URL
+import axios from 'axios';
+
+export default axios.create({
+    baseURL: "http://127.0.0.1:5000",
+})
