@@ -25,9 +25,3 @@ npm install dependencies
 ```
 npm start
 ```
-
-
-## Demo
-I have a working demo on my website, https://demotaskmanager.jtsimon.dev/ 
-
-The database is reset every hour to prevent spamming. 
