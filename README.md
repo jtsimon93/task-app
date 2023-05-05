@@ -25,3 +25,19 @@ npm install dependencies
 ```
 npm start
 ```
+
+## Screenshots
+
+**Home screen of the front-end app:**
+
+![task-app-front-end-home-screen](https://user-images.githubusercontent.com/943326/236557261-73626088-b98f-4cf8-86aa-f27eb41aecba.png)
+
+**Add task modal:**
+
+![task-app-add-task-modal](https://user-images.githubusercontent.com/943326/236557320-96b8ea54-d326-45b8-b50d-1b2dc3f99f95.png)
+
+
+**Home screen showing multiple tasks:**
+
+![task-app-showing-tasks](https://user-images.githubusercontent.com/943326/236557409-54364986-030c-4856-b187-2df5e9650ac5.png)
+
